@@ -1,0 +1,2 @@
+# AlgorithmGo
+Algorithm for go
